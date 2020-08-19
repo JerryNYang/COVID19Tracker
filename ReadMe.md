@@ -1,1 +1,1 @@
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+![Alt text](/relative/path/to/Screenshot_1597857452.png?raw=true "Optional Title")
